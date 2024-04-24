@@ -41,5 +41,14 @@ La siguiente tabla de conexiones muestra las comunicaciones con los sensores y e
 # Microcontrolador
 
 ## ESP32
+El módulo ESP32 es una solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos. El procesador en realidad tiene dos núcleos de procesamiento cuyas frecuencias operativas pueden controlarse independientemente entre 80 megahercios (MHz) y 240 MHz. Los periféricos del procesador facilitan la conexión a una variedad de interfaces externas como:
+
+Interfaz periférica serial (SPI)
+I2C
+Transmisor receptor asíncrono universal (UART)
+I2S
+Ethernet
+Tarjetas SD
+Interfaces táctiles y capacitivas
 
 # MQTT
